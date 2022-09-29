@@ -8,7 +8,7 @@ Programar **es un superpoder** que todo el mundo puede desarrollar.
 
 **Python en 5** es un curso creado con la intención de ayudar a cualquier persona que tenga el deseo de aprender a programar. Ya sea que te dediques a hacer código o a cualquier otra profesión, si quieres aprender desde cero las bases de la programación este curso es para ti.
 
-> El contenido y los temas aquí recopilados vienen de:
+> El contenido y los temas aquí recopilados los aprendí de:
 > - Mis experiencias con la unidad de formación *Introducción al Pensamiento computacional*
 > - Cursos profesionales de la plataforma [Platzi](https://platzi.com/)
 > - Creadores de contenido como [Yacklyon](https://www.youtube.com/channel/UCRWjpn9LNoQqhJ59AT_yxPw) y [Programación ATS](https://www.youtube.com/c/Programaci%C3%B3nATS)
