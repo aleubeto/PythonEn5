@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet maur
 
 ### 🤓 Resuelve problemas
 
-Resuelve ejercicios junto con tu profesor y pon a prueba lo aprendido resolviendo divertidos [retos](https://www.youtube.com/) que serán evidencia de tu maestría en el uso del **pensamiento computacional**.
+Resuelve [ejercicios](https://www.youtube.com/) junto con tu profesor y pon a prueba lo aprendido resolviendo divertidos [retos](https://www.youtube.com/) que serán evidencia de tu maestría en el uso del **pensamiento computacional**.
 
 ### 🍿 Grabaciones de clase
 
