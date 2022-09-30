@@ -27,3 +27,6 @@ Aprende a programar desde cero con python, el lenguaje de programación con mayo
 ### 🤓 Resuelve problemas
 
 Resuelve [ejercicios](https://www.youtube.com/) junto con tu profesor y pon a prueba lo aprendido resolviendo divertidos [retos](https://www.youtube.com/) que serán evidencia de tu maestría en el uso del **pensamiento computacional**.
+
+- **Ejercicios:** Problemas de programación resueltos en clase junto con el profesor para aplicar la teoría.
+- **Retos:** Problemas de programación a resolver por los/las/les estudiantes del curso al finalizar una clase. Son resueltos y explicados por el profesor al inicio de casa sesión para reforzar lo visto el día anterior.
